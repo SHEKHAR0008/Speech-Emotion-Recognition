@@ -72,7 +72,3 @@ We implemented and compared **two models**:
    - Tune hyperparameters  
    - Explore deeper architectures  
 
----
-
-   git clone https://github.com/your-username/speech-emotion-recognition-ml.git
-   cd speech-emotion-recognition-ml
